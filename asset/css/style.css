@@ -829,7 +829,7 @@ div.card{
 
  #expandedImg {
     width: 100%;
-    padding-top: 50%;
+    padding-top: 15%;
  }
 }
 
@@ -850,11 +850,11 @@ div.card{
    }
 
    #Pricing {
-    padding: 40px;
+    /* padding: 40px; */
    }
 
    #gallery{
-    padding: 40px;
+    /* padding: 40px; */
    }
 
 
@@ -957,10 +957,11 @@ div.card{
  }
 
  #Pricing{
-    padding: 20px;
+    padding: 0px;
  }
   #Pricing h1{
     font-size: 18px;
+    padding: 0px;
   }
 
   #Pricing h2{
