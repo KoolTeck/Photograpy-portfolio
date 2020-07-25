@@ -674,6 +674,18 @@ div.card{
 
 }
 
+@media screen and (max-width: 1200px){
+    #footer > div.container > div:nth-child(2) > div:nth-child(2) > span{
+        margin-right: unset;
+    }
+
+    #footer > div.container > div:nth-child(2) > div:nth-child(1) > span{
+        margin-left: unset;
+    }
+}
+
+
+
 @media screen and (max-width: 1004px) {
     .links {
     margin-right: 0;
